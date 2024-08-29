@@ -1,4 +1,5 @@
 let input = document.getElementById("input");
+let add = document.getElementById("addBtn");
 let tasks = document.getElementById("List-container");
 
 let tasksOfArray = [];
