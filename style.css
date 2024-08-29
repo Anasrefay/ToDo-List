@@ -80,7 +80,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(../image/icons8-circle-50\ \(1\).png);
+    background-image: url(./icons8-circle-50\ \(1\).png);
     background-size: cover;
     background-position: center;
     top: 12px;
@@ -93,7 +93,7 @@ ul li.checked{
 }
 
 ul li.checked::before{
-    background-image: url(../image/icons8-checked-30.png);
+    background-image: url(./icons8-checked-30.png);
 }
 
 .del{
